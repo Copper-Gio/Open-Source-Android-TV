@@ -1,4 +1,5 @@
 # Start your journey
+This is a compendium, it is intended to group resources from the Web, there are lots of guide all over the internet, never stop exploring, enjoy your reading!
 
 ## Contents
 
