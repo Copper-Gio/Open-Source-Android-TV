@@ -1,6 +1,6 @@
 # Open Source Android TV
 
-Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/)
+Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/){:target="_blank"}
 
 A little guide that brings to you a few smart TV Operating Systems, Devices and Softwares
 
