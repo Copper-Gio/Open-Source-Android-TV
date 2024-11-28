@@ -15,7 +15,7 @@ Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/)
 
 | With the help of                                                                                                                                                                                                |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="50" target="_blank" >](https://obtainium.imranr.dev/) |
+| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="50" target="_blank" >](https://obtainium.imranr.dev/){target="_blank"} |
 | Obtainium                                                                                                                                                                                                       |
 
 ## Your own TV :tv:
