@@ -16,8 +16,8 @@ This is a compendium, it is intended to group resources from the Web, there are 
 
 The requirements to build an Open Source Android TV are very little.
 
-| Technical                          | Other                                       |
-| ---------------------------------- | ------------------------------------- |
+| Technical                                         | Other                                   |
+| ------------------------------------------------- | --------------------------------------- |
 | Basic usage of file explorer<br/> Troubleshooting | TV<br/> Computer<br/> Remote controller |
 
 ## Operating System
