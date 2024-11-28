@@ -20,13 +20,13 @@ The requirements to build an Open Source Android TV are very little.
 | ---------------------------------------------------- | ------------------------------------------- |
 | + Basic usage of file explorer<br/>+ Troubleshooting | + TV<br/>+ Computer<br/>+ Remote controller |
 
-## Hardware
-
 ## Operating System
 
 The Operating System that we are going to use is called Lineage OS (the Android TV version)
 > LineageOS is an open source,[a] Android-based[c] operating system for smartphones, tablets, and set-top boxes.
 >> Source: [Wikipedia](https://en.wikipedia.org/wiki/LineageOS)
+
+## Hardware
 
 ## Applications
 
