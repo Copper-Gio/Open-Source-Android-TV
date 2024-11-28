@@ -17,3 +17,7 @@ With the help of  Obtainium[<img title="" src="https://raw.githubusercontent.com
 
 
 ## A Powerfull TV :tv:
+
+
+## License
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
