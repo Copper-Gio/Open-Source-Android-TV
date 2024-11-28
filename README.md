@@ -6,13 +6,13 @@ A little guide that brings to you a few smart TV Operating Systems, Devices and 
 
 ### Open Source :fire:
 
-Lineage OS under the hood 
+Lineage OS under the hood <img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/Lineageos_logo.png" alt="LineageOS" width="50">
 
 
 
 ### Easy install applications :sunglasses:
 
-With the help of  <img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="63">[Obtainium](https://obtainium.imranr.dev/)
+With the help of  [Obtainium](https://obtainium.imranr.dev/)<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="50">
 
 
 
