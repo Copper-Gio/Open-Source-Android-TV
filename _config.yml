@@ -1,4 +1,5 @@
 title: Open Source Android TV
-logo: /assets/img/.png
+logo: /assets/img/logo-tv-no-bg.png
 description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
