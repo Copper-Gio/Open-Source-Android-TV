@@ -17,7 +17,7 @@ With the help of  Obtainium[<img title="" src="https://raw.githubusercontent.com
 
 
 ## Your own TV :tv:
-Your rules, the applications you chose, the privacy you deserve
+The applications you choose, your rules, the privacy you deserve
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
