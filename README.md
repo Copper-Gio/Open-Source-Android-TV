@@ -6,8 +6,10 @@ Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/)
 
 ## Open Source :fire:
 
-Lineage OS under the hood [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/Lineageos_logo.png" alt="LineageOS" width="50">](https://lineageos.org/)
-
+| Lineage OS |
+| --------------- |
+| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/Lineageos_logo.png" alt="LineageOS" width="50">](https://lineageos.org/) |
+| under the hood | 
 
 
 ## Easy install applications :sunglasses:
