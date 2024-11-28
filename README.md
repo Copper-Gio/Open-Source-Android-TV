@@ -1,12 +1,19 @@
 # Open Source Android TV
+
 ![Open Source Android TV](https://copper-gio.github.io/Open-Source-Android-TV/)
 
 A little guide that brings to you a few smart TV Operating Systems, Devices and Softwares
 
 ### Open Source :fire:
 
+Lineage OS under the hood 
+
+
+
 ### Easy install applications :sunglasses:
 
-With the help of [Obtainium](https://obtainium.imranr.dev/) ![Obtainium](https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg)
+With the help of  <img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="63">[Obtainium](https://obtainium.imranr.dev/)
+
+
 
 ### A Powerfull TV :tv:
