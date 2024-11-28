@@ -8,14 +8,14 @@ Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/)
 
 | Lineage OS                                                                                                                                                                   |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/Lineageos_logo.png" alt="LineageOS" width="50" target=_blank >](https://lineageos.org/) |
+| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/Lineageos_logo.png" alt="LineageOS" width="50" target="_blank" >](https://lineageos.org/) |
 | under the hood                                                                                                                                                               |
 
 ## Easy install applications :sunglasses:
 
 | With the help of                                                                                                                                                                                                |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="50" target=_blank >](https://obtainium.imranr.dev/) |
+| [<img title="" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/obtainium.svg" alt="Obtainium" width="50" target="_blank" >](https://obtainium.imranr.dev/) |
 | Obtainium                                                                                                                                                                                                       |
 
 ## Your own TV :tv:
