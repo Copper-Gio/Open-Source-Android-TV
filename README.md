@@ -12,7 +12,7 @@ This is a compendium, it is intended to group resources from the Web, there are 
 
 ## Requirements
 
----------------------------------------
+---
 
 The requirements to build an Open Source Android TV are very little.
 
@@ -22,6 +22,8 @@ The requirements to build an Open Source Android TV are very little.
 
 ## Operating System
 
+---
+
 The Operating System that we are going to use is called LineageOS (the Android TV version)
 > LineageOS is an open source, Android-based operating system for smartphones, tablets, and set-top boxes.
 >
@@ -29,8 +31,14 @@ The Operating System that we are going to use is called LineageOS (the Android T
 
 ## Hardware
 
+---
+
 ## Applications
 
+---
+
 ## License
+
+---
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
