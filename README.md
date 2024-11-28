@@ -1,12 +1,10 @@
 # Open Source Android TV
 
-:tv: 
-
 A little guide that brings to you a few smart TV Operating Systems, Devices and Softwares
 
-Open Source :fire:
+Open Source
 
-Easy install applications :sunglasses: 
+Easy install applications
 
 ## Contents
 
@@ -17,7 +15,7 @@ Easy install applications :sunglasses:
 
 ## Requirements
 
-The requirements to build an ==Open Source Android TV== are very little.
+The requirements to build an Open Source Android TV are very little.
 
 | Technical                                        | Stuff                                                                       |
 | ------------------------------------------------ | --------------------------------------------------------------------------- |
