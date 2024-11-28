@@ -1,6 +1,6 @@
 # Open Source Android TV
 
-A little guide that brings to you a few Devices and Softwares for help you building your Android Smart TV
+A little guide that brings to you a few Devices and Softwares for helping you building your Android Smart TV
 
 Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/)
 
