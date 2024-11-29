@@ -36,7 +36,7 @@ The Operating System that we are going to use is called LineageOS (the Android T
 
 | Banana Pi M5                                  | ODROID-C4                                     |
 | --------------------------------------------- | --------------------------------------------- |
-| [<img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" alt="Banana Pi M5" width="50">](https://wiki.lineageos.org/devices/m5/) | [<img title="Odroid C5" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" width="50">](https://wiki.lineageos.org/devices/odroidc4/) |
+| [<a href="https://wiki.lineageos.org/devices/m5/" target="_blank"><img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" alt="Banana Pi M5" width="50"></a>] | [<img title="Odroid C5" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" width="50">](https://wiki.lineageos.org/devices/odroidc4/) |
 
 click the images to go to the page of the installation
 
