@@ -18,8 +18,7 @@ The requirements to build an Open Source Android TV are very little.
 
 | Technical                                         | Other                                   |
 | ------------------------------------------------- | --------------------------------------- |
-| [<ul><li>Basic usage of file explorer</li><li>Troubleshooting</li></ul>] | [<ul><li>TV</li><li>Computer</li><li>Remote Controller</li></ul>] |
-| Basic usage of file explorer <br/> Troubleshooting | TV <br/> Computer <br/> Remote controller |
+| - Basic usage of file explorer <br/> - Troubleshooting | - TV <br/> - Computer <br/> - Remote controller |
 
 ## Operating System
 
