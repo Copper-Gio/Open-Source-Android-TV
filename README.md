@@ -1,3 +1,4 @@
+![Open Source Android TV](https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/github-header-image(4).png)
 # Open Source Android TV
 
 A little guide that groups a few Devices and Softwares to help you building your Android Smart TV
