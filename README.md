@@ -1,10 +1,10 @@
-[<img title="AndroidTV" src="https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/github-header-image(4).png" alt="AndroidTVLogo" >]
-[![Image: AndroidTV](https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/github-header-image(4).png)]
 # Open Source Android TV
 
 A little guide that groups a few Devices and Softwares to help you building your Android Smart TV
 
 Visit the [Website](https://copper-gio.github.io/Open-Source-Android-TV/)
+
+![Image: AndroidTV](https://raw.githubusercontent.com/Copper-Gio/Open-Source-Android-TV/main/assets/github-header-image(4).png)
 
 ## Open Source :fire:
 
