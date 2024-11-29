@@ -37,7 +37,7 @@ LineageOS is an open source, Android-based operating system for smartphones, tab
 
 | Banana Pi M5                                  | ODROID-C4                                     |
 | --------------------------------------------- | --------------------------------------------- |
-| <a href="https://wiki.lineageos.org/devices/m5/" target="_blank"><img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" alt="Banana Pi M5" width="70"></a> | <a href="https://wiki.lineageos.org/devices/odroidc4/" target="_blank"><img title="Odroid C5" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" width="70"></a> |
+| <a href="https://wiki.lineageos.org/devices/m5/" target="_blank"><img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" alt="Banana Pi M5" width="70"></a> | <a href="https://wiki.lineageos.org/devices/odroidc4/" target="_blank"><img title="Odroid C5" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" width="70"></a> | <a href="https://wiki.lineageos.org/devices/radxa0/" target="_blank"><img title="Radxa Zero" src="https://wiki.lineageos.org/images/devices/radxa0.png" alt="Radxa Zero" width="70"></a> |
 
 click the images to go to the page of the installation
 
