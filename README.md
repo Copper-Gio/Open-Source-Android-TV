@@ -35,7 +35,7 @@ LineageOS is an open source, Android-based operating system for smartphones, tab
 
 ---
 
-Click the images for more information about the product
+Click the images for more information about the products
 
 | Banana Pi M5 | ODROID-C4 | Radxa Zero | 
 | ------------ | --------- | ---------- |
