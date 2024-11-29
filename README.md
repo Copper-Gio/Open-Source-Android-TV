@@ -25,14 +25,16 @@ The requirements to build an Open Source Android TV are very little.
 ---
 
 The Operating System that we are going to use is called LineageOS (the Android TV version)
-> LineageOS is an open source, Android-based operating system for smartphones, tablets, and set-top boxes.
->
-> *Source:[Wikipedia](https://en.wikipedia.org/wiki/LineageOS)*
+
+LineageOS is an open source, Android-based operating system for smartphones, tablets, and set-top boxes.
+*Source:[Wikipedia](https://en.wikipedia.org/wiki/LineageOS)*
+
+> <span style="color:orange">Please Note:</span> The version used for the Raspberry Pi isn't officially supported by the team of Lineage OS it's created and maintained by [**KonstaKANG**](https://konstakang.com/)
+> 
 
 ## Hardware
 
 ---
-
 
 | Banana Pi M5                                  | ODROID-C4                                     |
 | --------------------------------------------- | --------------------------------------------- |
