@@ -43,7 +43,7 @@ Click the images for more information about the products
 
 
 | <a href="https://wiki.lineageos.org/devices/m5/" target="_blank"><b>Banana Pi M5</b><br/><img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 85px;" alt="Banana Pi M5"></a> | <a href="https://wiki.lineageos.org/devices/odroidc4/" target="_blank"><b>ODROID-C4</b><br/><img title="Odroid C4" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 85px;"></a> | <a href="https://wiki.lineageos.org/devices/radxa0/" target="_blank"><b>Radxa Zero</b><br/><img title="Radxa Zero" src="https://wiki.lineageos.org/images/devices/radxa0.png" alt="Radxa Zero" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 85px;"></a> |
-| <a href="https://wiki.lineageos.org/devices/sif/" target="_blank"><b>NVIDIA Shield TV</b><br/><img title="Shield TV" src="[https://wiki.lineageos.org/images/devices/sif.png](https://www.nvidia.com/content/dam/en-zz/Solutions/SHIELD/overview/phase2/shield-tv-410-l@2x.jpg)" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 85px;" alt="Shield TV 2029"></a> |  |  |
+| <a href="https://wiki.lineageos.org/devices/sif/" target="_blank"><b>NVIDIA Shield TV</b><br/><img title="Shield TV" src="https://www.nvidia.com/content/dam/en-zz/Solutions/SHIELD/overview/phase2/shield-tv-410-l@2x.jpg" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 85px;" alt="Shield TV 2019"></a> |  |  |
 
 ## Applications
 
