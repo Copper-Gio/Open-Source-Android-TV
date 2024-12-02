@@ -1,5 +1,5 @@
 # Smart TV
-A smart TV, also known as a TV (CTV), is a traditional television set with integrated Internet and interactive Web 2.0 features that allow users to stream music and videos, browse the internet, and view photos. Smart TVs are a technological convergence of computers, televisions, and digital media players.
+A smart TV, also known as a TV (CTV), is a traditional television set with integrated Internet and interactive Web 2.0 features that allow users to stream music and videos, browse the internet, and view photos. Smart TVs are a technological convergence of computers, televisions, and digital media players.<br/>
 *Source:[Wikipedia](https://en.wikipedia.org/wiki/Smart_TV)*
 
 # Start your journey
