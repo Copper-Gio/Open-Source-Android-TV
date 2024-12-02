@@ -43,7 +43,7 @@ Click the images for more information about the products
 
 | Banana Pi M5 | ODROID-C4 | Radxa Zero | 
 | ------------ | --------- | ---------- |
-| <a href="https://wiki.lineageos.org/devices/m5/" target="_blank"><img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 150px;" alt="Banana Pi M5" width="70"></a> | <a href="https://wiki.lineageos.org/devices/odroidc4/" target="_blank"><img title="Odroid C5" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" width="70"></a> | <a href="https://wiki.lineageos.org/devices/radxa0/" target="_blank"><img title="Radxa Zero" src="https://wiki.lineageos.org/images/devices/radxa0.png" alt="Radxa Zero" width="70"></a> |
+| <a href="https://wiki.lineageos.org/devices/m5/" target="_blank"><img title="Banana Pi M5" src="https://wiki.lineageos.org/images/devices/m5.png" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 33%;" alt="Banana Pi M5"></a> | <a href="https://wiki.lineageos.org/devices/odroidc4/" target="_blank"><img title="Odroid C5" src="https://wiki.lineageos.org/images/devices/odroidc4.png" alt="Odroid C5" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 33%;"></a> | <a href="https://wiki.lineageos.org/devices/radxa0/" target="_blank"><img title="Radxa Zero" src="https://wiki.lineageos.org/images/devices/radxa0.png" alt="Radxa Zero" style="border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 33%;"></a> |
 
 ## Applications
 
