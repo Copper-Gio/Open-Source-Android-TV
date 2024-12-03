@@ -32,8 +32,7 @@ The Operating System that we are going to use is called **LineageOS** <ins>(the 
 
 LineageOS is an open source, Android-based operating system for smartphones, tablets, and set-top boxes.
 *Source:[Wikipedia](https://en.wikipedia.org/wiki/LineageOS)*
-> <span style="color:orange"><b>Please Note:</b></span> The version used for the Raspberry Pi isn't officially supported by the team of Lineage OS it's created and maintained by <u>[**KonstaKANG**](https://konstakang.com/)</u>
-> 
+> <span style="color:orange"><b>Please Note:</b></span> The version used for the Raspberry Pi isn't officially supported by the team of Lineage OS it's created and maintained by [**<u>KonstaKANG</u>**](https://konstakang.com/)
 
 ## Hardware
 
