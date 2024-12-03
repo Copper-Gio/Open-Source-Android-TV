@@ -1,5 +1,5 @@
 title: Open Source Android TV
 logo: /assets/img/logo-tv-no-bg.webp
 description: A little guide that groups a few Devices and Softwares to help you building your Android Smart TV
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
